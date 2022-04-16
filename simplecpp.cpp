@@ -1,1 +1,2 @@
 //Inserting libraries.
+#Include <algorithm>
