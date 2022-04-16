@@ -1,4 +1,4 @@
 //Inserting libraries.
 #include <algorithm>
-#Include <iostream>
+#include <iostream>
 #include <string>
